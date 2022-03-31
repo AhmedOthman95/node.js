@@ -1,0 +1,147 @@
+[
+    {
+        "triggers": [
+            "night",
+            "good night"
+        ],
+        "replies": [
+            {
+                "reply": "To you...",
+                "type": "text"
+            },
+            {
+                "reply": "It's time",
+                "type": "text"
+            },
+            {
+                "reply": "Where are you going? The night is still young!",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "good morning",
+            "morning"
+        ],
+        "replies": [
+            {
+                "reply": "./media/audio/sun_in_the_sky.mp3",
+                "type": "audio"
+            },
+            {
+                "reply": "./media/audio/new_dawn_new_day.mp3",
+                "type": "audio"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "haha",
+            "hahaha",
+            "ahah",
+            "ahahaha"
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/kid_laughing_meme.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "party"
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/party_girl.gif",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            1
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/one_ayat.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            2
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/two_ayat.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            3
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/three_ayat.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            4
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/four_ayat.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            5
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/five_ayat.jpg",
+                "type": "image"
+            }
+        ]
+    },
+        
+        
+    {
+        "triggers": [
+            "hello",
+            "hi"
+        ],
+        "replies": [
+            {
+                "reply": "Hi, how's it going?",
+                "type": "response"
+            },
+            {
+                "reply": "Hey! What's up?",
+                "type": "response"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "link"
+        ],
+        "replies": [
+            {
+                "reply": "There you go: <a href=\"https://www.mignanoa.com/\">inline URL</a>",
+                "type": "text"
+            }
+        ]
+    }
+]
